@@ -6,7 +6,7 @@ class SimilarityMeasure:
         self.query = query
         self.FILE_DATA = r"file_weight\weight_tf.csv"
         self.found = True if self.document_vectors() else False
-
+        
     def query_compute_weight(self, query):
         pass
 
