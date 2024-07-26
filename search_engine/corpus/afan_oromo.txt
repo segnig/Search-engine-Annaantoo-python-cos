@@ -1,0 +1,98 @@
+## Investigating Afan Oromo Language Structure and Developing Effective File Editing Tool as Plug-in into MS Word to Support Text Entry and Input Methods
+
+### WORKINEH TESEMA* AND DURESA TAMIRAT
+
+1. Department of Information Science, Jimma University, Jimma, Ethiopia  
+2. Department of Information Technology, Medawolabu University, Robe, Ethiopia  
+
+### INTRODUCTION
+
+Computers and technologies are integral to life for most people, 
+including those with physical disabilities. Improving and enhancing text entry 
+and interaction with computers for users has been investigated for many years. 
+However, for Afan Oromo, an under-resourced language, the development of such 
+technology offers a great opportunity. The aim of this work was to explore 
+Afan Oromo language structure (spelling, words, phrases, and sentences) and 
+then develop an effective file editor, a plug-in for MS Word, to support 
+text entry and input methods.
+
+### OVERVIEW OF AFAN OROMO SCRIPT
+
+Afan Oromo, also called Oromiffaa or Afaan Oromoo, is a 
+member of the Cushitic branch of the Afro-Asiatic language family. It is the 
+third most widely spoken language in Africa, after Hausa and Arabic, and is used 
+
+by the largest ethnic group in Ethiopia, the Oromo people, who make up about 50% 
+of the population. Afan Oromo uses the Latin-based alphabet, Qubee, consisting of 
+thirty-three basic letters: five vowels, twenty-four consonants, and seven paired 
+letters (e.g., ‘CH’, ‘DH’, ‘NY’, ‘SH’, ‘TS’). 
+
+### LANGUAGE STRUCTURE
+
+Afan Oromo has a rich morphology and uses a subject-object-verb (SOV) 
+sentence structure, unlike the subject-verb-object (SVO) structure of 
+English. It also features unique punctuation usage, such as the apostrophe, 
+which indicates a glottal stop sound. 
+
+### PUNCTUATION MARKS
+
+Punctuation marks in Afan Oromo are similar to those in English, with the exception 
+of the apostrophe. In Afan Oromo, the apostrophe represents a glottal stop, 
+unlike in English where it indicates possession.
+
+### LITERATURE REVIEW
+
+Research on facilitating computer interaction for users with physical disabilities 
+has led to various tools and techniques. Word prediction and text entry methods 
+have been proposed to assist such users. Previous research on Afan Oromo has focused 
+on mobile text entry, but there is a need for a comprehensive solution integrated into 
+widely used software like MS Word.
+
+### MATERIALS AND METHOD
+
+This research uses machine learning approaches, specifically unsupervised 
+learning with N-gram algorithms (Unigram, Bigram, and Trigram). The steps include:
+
+- Developing machine learning algorithms focusing on syntactic information.
+- Developing N-gram algorithms tailored to user/domain-specific information.
+- Integrating these learning mechanisms into a robust model.
+- Applying the model to word prediction and completion.
+- Testing and evaluating the system with physically disabled users.
+
+### TRAINING DATA
+
+Training data were collected from government media, cultural, historical, 
+sports news, political, and economic documents in Afan Oromo.
+
+### SIMULATION TOOLS
+
+The algorithms were implemented in Java using NetBeans IDE 8.02. Java was 
+chosen for its general-purpose nature, open-source availability, and platform independence.
+
+### IMPLEMENTATION AND EXPERIMENT
+
+The developed system integrates unsupervised learning with N-gram algorithms 
+to produce robust techniques for file editing. It enhances MS Word functionality 
+with a plug-in that supports Afan Oromo. The system provides faster and more efficient 
+text entry, reduces cognitive load, and supports users with physical disabilities. 
+
+### RESULTS
+
+The file editor improves text entry speed and accuracy by predicting and 
+completing words. It is particularly beneficial for typists and users 
+with physical disabilities. The tool has additional functionalities, 
+such as word prediction, making it easier to create and edit documents
+ in Afan Oromo.
+
+### CONCLUSION
+
+This work introduces a file editor tool for Afan Oromo, 
+enhancing text entry and input methods for users. The integration 
+into MS Word brings significant benefits, especially for users with 
+disabilities, by providing an efficient way to interact with computers using their native language.
+
+### Keywords
+
+File editor; Text entry; Word production; Afan Oromo; Input method; Assistive technology.
+
+### Corresponding author e-mail: workineh.tesema@ju.edu.et

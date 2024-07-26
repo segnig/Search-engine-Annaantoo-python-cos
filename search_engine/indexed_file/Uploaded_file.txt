@@ -1,0 +1,5 @@
+Stemmed-words\afan_oromo__stemmed__.txt
+Stemmed-words\world_cup__stemmed__.txt
+Stemmed-words\Eclipse_Foundation__stemmed__.txt
+Stemmed-words\computerANDphone__stemmed__.txt
+Stemmed-words\About_Ethiopia__sample_1__stemmed__.txt
